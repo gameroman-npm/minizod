@@ -161,7 +161,7 @@ export {
   multipleOf,
   nan,
   nanoid,
-  nativeEnum,
+  // nativeEnum,
   negative,
   never,
   nonnegative,
