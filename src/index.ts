@@ -78,7 +78,7 @@ export {
   ZodMiniXor,
   _default,
   // _function,
-  function,
+  // function,
   any,
   array,
   base64,
