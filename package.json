@@ -25,7 +25,7 @@
     "prepublishOnly": "bun run build"
   },
   "devDependencies": {
-    "@gameroman/config": "0.2.5",
+    "@gameroman/config": "0.2.6",
     "tsdown": "0.22.14",
     "typescript": "7.0.2",
     "zod": "4.4.3"
